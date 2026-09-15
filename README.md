@@ -1,4 +1,4 @@
-# how-to-load-drag-view-indicator-in-.net-maui-listview.
+# How to load drag view indicator in .NET MAUI ListView(SfListView)?
 
 This example demonstrates about how to load drag view indicator in .NET MAUI ListView(SfListView).
 
